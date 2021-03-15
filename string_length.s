@@ -1,7 +1,7 @@
 .data
 
-mhnhma1: .asciiz "Parakalw plhktwloghste mia leksh:  \n"
-mhnhma2: .asciiz "To mhkos ths sumboloseiras einai: \n"
+mhnhma1: .asciiz "Please type a word:  \n"
+mhnhma2: .asciiz "Its length is: \n"
 buffer: .space 1024
 
 .text
