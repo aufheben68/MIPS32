@@ -1,5 +1,5 @@
 .data 
-	msg1: .asciiz "Dwse duo ari9mous:\n" 
+	msg1: .asciiz "Please give 2 numbers:\n" 
 
 .text 
 
