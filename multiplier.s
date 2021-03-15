@@ -1,7 +1,7 @@
 .data
-erwtisi_prwth:	.asciiz	"Dose thn prwth timh"
-erwtisi_deyterh:	.asciiz "Dose thn deyterh timh"
-apotelesma:	.asciiz	"To apotelesma einai: "
+erwtisi_prwth:	.asciiz	"Give the first value:"
+erwtisi_deyterh:	.asciiz "Give the second value""
+apotelesma:	.asciiz	"The result is: "
 
 .text
 
